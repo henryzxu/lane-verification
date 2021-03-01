@@ -1,4 +1,4 @@
-# Model Agnostic Defense for Lane Detection against Adversarial Attack
+# Model-Agnostic Defense for Lane Detection against Adversarial Attack
 
 Presented at AutoSec 2021.
 
